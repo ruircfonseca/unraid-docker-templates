@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Container version="2">
+    <Name>JMusicBot</Name>
+    <Description>Music Bot for Discord, developed by jagrosh</Description>
+    <Icon></Icon>
+    <Registry>https://registry.hub.docker.com/u/fenixisalive/jmusicbot</Registry>
+    <Repository>fenixisalive/jmusicbot</Repository>
+    <BindTime>true</BindTime>
+    <Network>bridge</Network>
+    <Privileged>false</Privileged>
+    <Category>MediaApp:Music  Status:Beta</Category>
+    <Environment/>
+    <Config Type="Path" Name="Config directory" Target="/usr/src/app" Default="/mnt/user/appdata/jmusicbot" Mode="rw" Description="This is where Config file and playlists are hosted" Required="true">/mnt/user/appdata/jmusicbot</Config>
+    <Version>05616fd2</Version>
+    <ExtraParams></ExtraParams>
+</Container>

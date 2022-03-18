@@ -2,7 +2,7 @@
 <Container version="2">
     <Name>JMusicBot</Name>
     <Description>Music Bot for Discord, developed by jagrosh</Description>
-    <Icon>https://github.com/ruircfonseca/unraid-docker-templates/blob/master/icons/jmusicbot.png</Icon>
+    <Icon>https://github.com/ruircfonseca/unraid-docker-templates/blob/master/icons/jmusicbot.png?raw=true</Icon>
     <Registry>https://registry.hub.docker.com/u/fenixisalive/jmusicbot</Registry>
     <Repository>fenixisalive/jmusicbot</Repository>
     <BindTime>true</BindTime>
